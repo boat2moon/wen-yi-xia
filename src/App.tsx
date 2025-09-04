@@ -2,9 +2,8 @@ import React from 'react'
 import logo from './logo.svg'
 import './App.css'
 
-const ab = 10
-
 function App() {
+  const test = 100
   return (
     <div className="App">
       <header className="App-header">
